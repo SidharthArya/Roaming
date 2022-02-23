@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-FILES=$(git diff --cached --name-only
-git stash
-git pull
-git stash pop

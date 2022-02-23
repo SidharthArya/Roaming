@@ -1,3 +1,3 @@
 ((nil . ((org-hugo-base-dir . "~/.blog")
-         (after-save-hook . org-hugo-export-to-md)
+         (after-save-hook . my-org-hugo-roam-export-md)
          (org-hugo-section . "braindump"))))
