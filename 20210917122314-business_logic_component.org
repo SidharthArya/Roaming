@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1c50f6ca-47ae-49cc-91ef-aefaac0503bf
+:ROAM_ALIASES: BLoC
+:END:
+#+title: Business Logic Component
+

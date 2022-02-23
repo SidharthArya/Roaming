@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       8e9cd092-a7fe-4e01-a334-d7938546fce6
+:END:
+#+title: Threading
+#+filetags: Programming
+
+
+threading allows you to have different parts of your program
+run concurrently and can simplify your design.

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       40c5bd98-eb7a-4ceb-97f1-19964c3e48b9
+:END:
+#+title: Deep Learning
+
+Working with [[id:b63b44ba-cdba-40d5-8ac1-d6bdc1fa33b1][Neural Networks]] containing more than one hidden layer
+
+
+cite:schmidhuber15_deep_learn_neural_networ
+
+* Deep Learning Frameworks
++ [[id:47c9bcbb-59cb-4182-b232-034f218e7ea5][PyTorch]]
++ [[id:2c58b931-09a3-49e8-aba7-cf856cc075e8][Tensorflow]]
++ [[id:14eb7bfc-514b-427e-abb8-b44dd53c1b09][DeepLearning4j]]
+* Resources
+  + Mitesh M Khapra Slides https://www.cse.iitm.ac.in/~miteshk/CS7015/Slides/Teaching/pdf/
+* Training Issues
+** Vanishing Gradient

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c0b123de-f3b5-41d6-9180-8ace827cfdb9
+:END:
+#+title: Convolutional Neural Network
+#+filetags: "Artificial Intelligence" AI" Deep Learning" DL
+
+
+
+* Model Architectures
+
+** DenseNet
+:PROPERTIES:
+:ID:       ca94cb09-fb6a-41f2-946e-87c11239f136
+:END:
+

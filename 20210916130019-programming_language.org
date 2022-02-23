@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       31c61d47-0afc-4d5c-9b60-6c154a1c518d
+:END:
+#+title: Programming Language
+
+* Features
+** Type Safe Language
+:PROPERTIES:
+:ID:       48e6dfd4-93d9-4811-855e-c739470e83d1
+:END:
+A type-safe language is one where the only operations that one can execute on data are the ones that are condoned by the data's type
+** Type Inference
+:PROPERTIES:
+:ID:       c4e9f377-f854-473b-8ebd-980b5ff02365
+:END:
+** Sound Null Safety
+Values cant be null unless you say they can be.
+* Languages
++ [[id:7a1dd5ac-1ee4-4484-84fd-0a3336e779c1][Python]]

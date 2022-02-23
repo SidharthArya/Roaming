@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       683e0c69-0928-4807-a392-45c799fb8cc3
+:END:
+#+title: Muscular System
+
+
+* Abs
+** Transverse Abdominis
+** Internal Obliques
+** External Obliques
+** Rectus abdominis
+** Posterior ab muscles

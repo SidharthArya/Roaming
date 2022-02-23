@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       1fbc4a00-1f40-48d3-a7cf-62f2e89ff486
+:END:
+#+title: Dart
+Dart is a client-optimized general purpose language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks.
+
+
+
+* Features
++ [[id:48e6dfd4-93d9-4811-855e-c739470e83d1][Type Safe Language]]
++ Type annotations are optional because of [[id:c4e9f377-f854-473b-8ebd-980b5ff02365][Type Inference]]
++ Asynchronous programming with classes such as Future and Stream (dart:async)
++ Client Optimized
+
+
+* Packages
+** dart:async
+:PROPERTIES:
+:ID:       67933d59-236f-47af-91d4-165a5b313253
+:END:
+** dart:io
+:PROPERTIES:
+:ID:       141ed53b-dad8-4a1a-8fed-7e59c0b7f81e
+:END:
+** dart:convert
+:PROPERTIES:
+:ID:       7508a77a-8b0d-4d74-a5eb-64eb54ad9745
+:END:
+** dart:typed__data
+** dart:ffi
+:PROPERTIES:
+:ID:       b39b0789-8299-49d2-9b6b-41c7f5aa6d6f
+:END:
+Foreign function interface for interoperability with other code that presents a C stype interface
+** dart:isolate
+:PROPERTIES:
+:ID:       4735a5d3-3730-40ec-b10c-195042e35cdf
+:END:
+** dart:html
+:PROPERTIES:
+:ID:       8fb2c64d-dc33-4704-88d9-4584d1ec68b1
+:END:
+** 

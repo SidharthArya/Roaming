@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f5f21498-c5a6-42d8-9c7f-1f7466eed6dc
+:END:
+#+title: Vue
+#+filetags: :JS:Frontend:
+* Vuetify
+:PROPERTIES:
+:ID:       d6705563-b59e-4f97-917d-7d3ab7478849
+:END:
+
+[[id:0667ccfc-58d5-4dbf-abe9-6a00cf92878a][Material Design]] for Vue

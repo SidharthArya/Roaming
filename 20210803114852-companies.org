@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f13647dd-1933-4889-9919-4e24fb964982
+:END:
+#+title: Companies
+
+* Types
+** By ?
+*** Product Based
+*** Sevice Based

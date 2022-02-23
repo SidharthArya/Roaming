@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       716c0fbb-b5e9-4cd0-a8e4-4f3d46f36709
+:ROAM_ALIASES: HTTP
+:END:
+#+title: Hyper Text Transfer Protocol
+#+filetags: :HTTP:
+
+** Error Codes
+:PROPERTIES:
+:ID:       7823da1a-cb55-4caa-b3bd-0636d190609c
+:END:
+*** 302

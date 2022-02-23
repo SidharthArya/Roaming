@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       eba9e9b8-56e6-46bb-815d-d29336e40148
+:END:
+#+title: Interview
+
+* Methods
+** STAR Interview Method

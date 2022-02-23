@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       e83f0731-faee-40d8-875c-23da9dec605d
+:END:
+#+title: Transformers
+#+filetags: :AI:
+
+* Vision Transformer                                                    :ViT:
+:PROPERTIES:
+:ID:       8a995cb8-32e7-492b-bfcd-7d1425a13c14
+:END:

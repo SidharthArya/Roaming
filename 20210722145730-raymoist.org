@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       0356302f-7047-4c12-b79b-4af50d4e7811
+:END:
+#+title: Raymoist
+
+[[id:6b0e020e-14b7-40b7-84da-ae5f357a4068][Sterile Eye Drop]]
+* Composition
+|--------------------------------+-----------|
+| Salt                           | Quantity  |
+|--------------------------------+-----------|
+| [[id:a96949ca-df01-4e66-aca4-55ae951ad9da][Polyethylene Glycol]]            | 0.4% w/v  |
+| [[id:bb663e47-0289-413c-8d84-974491c708d3][Propylene Glycol]]               | 0.3% w/v  |
+| [[id:df64db6b-447b-407e-8418-ad7a2c54e402][Benzalkonium Chloride]] Solution | 0.02% v/v |
+|--------------------------------+-----------|

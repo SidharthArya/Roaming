@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8913a1ea-27a0-49bc-ba6e-3e39f3540290
+:END:
+#+title: Computer Vision
+
+* Concepts
+** Contour Detection
+:PROPERTIES:
+:ID:       26d61703-3e9a-42c9-9875-c3af184875d6
+:END:
+** Edge Detection
+*** Canny
+*** Sobel
+*** Differences of Gaussian
+** Thresholding
+*** Otsu's Thresholding
+** Filtering
+*** Emboss
+*** Color Filtering
+** Perspective Correction
+** Histogram Matching

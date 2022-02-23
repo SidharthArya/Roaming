@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       e0f96d92-bd1d-46fa-b329-e6b7c6dc878c
+:END:
+#+title: Power BI
+

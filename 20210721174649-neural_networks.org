@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       b63b44ba-cdba-40d5-8ac1-d6bdc1fa33b1
+:END:
+#+title: Neural Networks
+
+* Concepts
+** Fusing Layers
+:PROPERTIES:
+:ID:       005ee936-4466-4a1a-9899-e978806df4fc
+:END:
+* Types
+** Graph Neural Networks
+:PROPERTIES:
+:ID:       f23415a0-728b-4f33-8e9e-bc56f49bd156
+:END:
+** Convolutional Neural Networks
+:PROPERTIES:
+:ID:       7947dad5-fb28-479e-9167-ebeb092e504f
+:END:
+** Recurrent Neural Networks
+:PROPERTIES:
+:ID:       5d677af3-e64f-4b0d-b854-84fdd6592d71
+:END:
+** Convolutional Recurrent Networks
+:PROPERTIES:
+:ID:       c161d52d-3c17-4f1f-af75-f11dc9a4cdd0
+:END:
+*** GCN
+*** Attention
+*** Multistage
+*** Applications
++ Recommender Systems

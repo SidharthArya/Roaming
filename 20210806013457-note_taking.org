@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8d0725e7-f846-490a-8f35-7f0c0bada441
+:END:
+#+title: Note Taking
+
+
+
+* Zettelkasten
+:PROPERTIES:
+:ID:       29e75448-a707-49dc-8b6b-89dcaf2bd36f
+:END:
++ [[id:389d6b2c-40f8-4abc-ab56-e53ca525dfad][Org Roam]]
++ [[https://logseq.com/][Logseq]]
+

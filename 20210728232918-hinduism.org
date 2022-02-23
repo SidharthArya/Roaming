@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       55197bd4-47a9-4f69-9bf8-766c8a0325e3
+:END:
+#+title: Hinduism
+#+filetags: Hinduism
+
+* TODO Gods
+:PROPERTIES:
+:ID:       960eb19a-4e04-415d-a011-e578b79a67ab
+:END:
+** TODO Shiva 
+:PROPERTIES:
+:ID:       832fd82c-7879-4e0d-bc8e-66d77d581714
+:END:
+** TODO Vishnu
+:PROPERTIES:
+:ID:       4e793627-9032-4fb3-b359-0911522dd881
+:END:
+** TODO Brahma
+:PROPERTIES:
+:ID:       fb0c4dfe-5043-4fe1-84f7-7837f4fed7c6
+:END:
+
+* TODO Literature
+:PROPERTIES:
+:ID:       b5b22cc5-99a0-48d0-9266-2c72cc69de09
+:END:
++ [[id:5130524e-96c0-45de-900e-89857145ab06][Ramayana]]
++ [[id:a8894a03-14e1-4531-9c42-6aba2a927d9a][Mahabharata]]

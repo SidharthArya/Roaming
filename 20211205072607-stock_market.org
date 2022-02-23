@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       4f78c253-067d-4fb9-b59b-2a5369b43611
+:END:
+#+title: Stock Market
+#+filetags: :Finance:
+
+* Market Analysis                                                  :Analysis:
+:PROPERTIES:
+:ID:       de0bed09-194e-49e6-8400-c6f438e875bb
+:END:
+** Technical  Analysis
+:PROPERTIES:
+:ID:       9c114a85-aa2f-4b99-afe1-989b4f77c567
+:END:
+** Fundamental Analysis
+:PROPERTIES:
+:ID:       f210d53b-de33-4857-bf8f-a7ae49f08109
+:END:
+
+
+*** Price to Earning Ratio
+:PROPERTIES:
+:ID:       8dc8cf07-0438-4338-a14e-9679873e48c4
+:ROAM_ALIASES: "P/E Ratio"
+:END:
++ The P/E ratio shows what the market is willing to pay today for a stock based on its past or future earnings
+
++ A high P/E could mean that a stock's price is high relative to earnings and possibly overvalued. Conversely, a low P/E might indicate that the current stock price is low relative to earnings.
+*** Price to Book Ratio
+:PROPERTIES:
+:ID:       40cfd719-d261-4068-b52c-2dcc11b5fa2d
+:ROAM_ALIASES: "P/B Ratio"
+:ROAM_REFS: https://www.investopedia.com/terms/p/price-to-bookratio.asp
+:END:
+Companies use the price-to-book ratio (P/B ratio) to compare a firm's market capitalization to its book value. It's calculated by dividing the company's stock price per share by its book value per share (BVPS).
+
+*** Dividend Yield
+:PROPERTIES:
+:ID:       0af40117-98ee-4692-90a5-a661a52e1769
+:ROAM_REFS: https://www.investopedia.com/terms/d/dividendyield.asp
+:END:
+
+The dividend yield, expressed as a percentage, is a financial ratio (dividend/price) that shows how much a company pays out in dividends each year relative to its stock price.
+
+
+The reciprocal of the dividend yield is the [[id:d2722ac0-b960-4dfc-b594-4bb3c65d370c][P/D Ratio]]
+
+
+*** Price to Dividend Ratio
+:PROPERTIES:
+:ID:       d2722ac0-b960-4dfc-b594-4bb3c65d370c
+:ROAM_ALIASES: "P/D Ratio"
+:END:

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0e5930b7-9b3f-4265-a112-db1912e77e4c
+:END:
+#+title: Theatre
+
+* Techniques
+** Improv
+:PROPERTIES:
+:ID:       0e36890c-b61e-4f56-97d6-f9aeee99bba9
+:END:
+** Extempore
+:PROPERTIES:
+:ID:       f82f3ca1-b040-4714-b5b2-790445004421
+:END:
+* Extempore
+

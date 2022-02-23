@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       74284162-b634-4f13-8be6-5208b8e55d4b
+:END:
+#+title: Programming
+
+
+* Iterator
+:PROPERTIES:
+:ID:       4e479d0f-fc04-4ee9-8847-88fab813ae19
+:END:
+** Lazy Iterator
+:PROPERTIES:
+:ID:       50614c19-ed95-4958-90f0-9b1083eab7c4
+:END:
+These are objects that you can loop over like a list. However, unlike lists, lazy iterators do not store their contents in memory. 

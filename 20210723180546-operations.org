@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       11f50f09-c850-4ea4-a49c-5e44abfc6da4
+:ROAM_ALIASES: OPS
+:END:
+#+title: Operations
+

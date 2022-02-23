@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       61d994c5-d20c-459c-8505-1bcb04c972c5
+:ROAM_ALIASES: HLS
+:END:
+#+title: HTTP Live Streaming
+
+* Resources
++ Apple https://developer.apple.com/streaming/

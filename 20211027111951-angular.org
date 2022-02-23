@@ -1,0 +1,81 @@
+:PROPERTIES:
+:ID:       fcc8ff21-2dba-484e-8165-e47972a44916
+:END:
+#+title: Angular
+#+filetags: :JS:Frontend:Google:
+
+Angular is an application design framework and development platform for creating efficient and sophisticated single-page apps. Uses [[id:5027dd99-7e6b-4943-974f-45daf13ff361][Typescript]].
+
+
+* Features
++ Validation
++ Routing
++ Unit Testing
++ Typescript
+* Components
++ @angular/core
++ @angular/compiler
++ @angular/http
++ @angular/router
+* Concepts
++ Modules  - RootModule (AppModule)
+  + Component - RootComponent (AppComponent) - HTML + Class
+    + Template - View - HTML
+    + Class - Code - TypeScript
+    + Metadata - Information - Decorator
++ Services - Business Logic
+* Interpolation
+Interpolation is a technique that allows the user to bind a value to a UI element.
+
+* Attributes vs Properties
++ Attributes and properties are not the same
+  Attributes - HTML
+  Properties - DOM
+* Property Bindings
+#+begin_src html
+<input [id]="myId" type="text" value="Temp">
+#+end_src
+Binds myId variable to id property
+
+[class.text-danger]="true"
+
+ngClass
+* Style Binding
+[style.color]="orange"
+
+* Binding
+** Data Binding
+[]
+** Event Binding
+()
+** Two way Binding
+[(NgModel)]=var
+* Template Reference
+#var
+* Structural Directives
++ *ngIf - then, else
++ [ngSwitch] - *ngSwitchCase
++ *ngFor - even, odd, first, last
+
+<ng-template>
+* Component Interaction
++ @Input - Parent to Child
++ @Output - Child to Parent - Use EventEmitter
+* Pipes
++ lowercase
++ uppercase
++ titlecase
++ slice
++ json
++ number:'min number of integers.minimum no of decimal digits:maximum no of decimal digits'
++ percent
++ currency
++ date
+* Dependency Injection
+
+* Angular Material
+:PROPERTIES:
+:ID:       e3e217be-a0ad-40cb-bf30-520da2c8f5c6
+:END:
+[[id:0667ccfc-58d5-4dbf-abe9-6a00cf92878a][Material Design]] for Angular
+

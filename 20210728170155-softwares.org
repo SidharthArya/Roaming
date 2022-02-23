@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c3e0f63e-b7e1-4e50-b16a-4e69687a753d
+:END:
+#+title: Softwares
+
+* List
+** [[id:4edac505-1228-4ad6-bc67-fd52912fbaf4][Emacs]]
+** [[id:5f194bd6-b3a0-41bc-b7d7-42f0e68943d2][Vim]]
+
+** [[id:9d8ea625-a2bc-49aa-b546-a888f2ee2ba2][Data Science]]
+*** [[id:dd7a141e-f320-4f32-8757-768426da4db3][Data Visualization]]
++ [[id:92a160aa-6db2-4188-972b-9a1c6f435471][Redash]]
++ [[id:9118792c-8d9a-47dd-bc26-41bc5bd573f1][Superset]]
++ [[id:e0f96d92-bd1d-46fa-b329-e6b7c6dc878c][Power BI]]
++ [[id:67e4c7d0-f9f9-4306-b8ca-1570445ca351][Tableau]]
+  
+** Web
+** Something Cool
+*** [[id:1c7ec6dc-e4d7-459b-841e-37c2e03d84b3][Dask]]

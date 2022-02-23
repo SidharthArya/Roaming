@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       5027dd99-7e6b-4943-974f-45daf13ff361
+:END:
+#+title: Typescript
+#+filetags: :Javascript:JS:
+
+
+Typescript is a superset of [[id:3ab0c28a-423f-4053-90f9-78a8e06d82a8][Javascript]]
+
+Browsers transpile [[id:5027dd99-7e6b-4943-974f-45daf13ff361][Typescript]] to [[id:3ab0c28a-423f-4053-90f9-78a8e06d82a8][Javascript]].
+* Features
++ Strong Typing
++ Object Oriented Features
++ Compile Time Errors
++ Great Tooling
+* Typescript Compiler
++ Compiler reports errors but still generates the js file
+* Javascript
+:PROPERTIES:
+:ID:       3ab0c28a-423f-4053-90f9-78a8e06d82a8
+:END:
+** Misc
+*** Scoping
++ var is scoped to the nearest function
++ let is scoped to the nearest block
+
+*** Data Types
++ number - float or int
++ boolean
++ string
++ any
++ number[] - array of numbers
++ any[] - array of any
++ enum
+**** Notes
++ ~let~ doesn't allow to change variable types on the fly like ~var~ does, unless the variable type is set to any
+*** Arrow Functions
+* Modules
+** Moment.js 
+:PROPERTIES:
+:ID:       c8491dca-7bb4-4072-9a2a-8a80d1a2e356
+:END:
+ making date and time better on the web
+** 

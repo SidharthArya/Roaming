@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       862cf2e3-a5d0-4660-91ce-7ca00d68d192
+:END:
+#+title: Numpy
+
+* Functions
+** TODO np.ones_like

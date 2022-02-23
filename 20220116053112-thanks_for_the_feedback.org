@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       39b3876f-cd0f-4212-a826-f9ec3a8bbe08
+:ROAM_KEY: cite:stone14_thank
+:END:
+#+title: Thanks For The Feedback
+
+* Chapter 1
++ There's a tension between learning and being accepted
+* Three Triggers that block feedback
++ Truth Trigger
++ Relationship Trigger
++ Identity Trigger
+  

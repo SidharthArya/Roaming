@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       0dd35401-ee00-4917-8dd1-7c0e02e733aa
+:END:
+#+title: Signal Processing
+
+
+
+* Filters
+** Wiener Filter
+:PROPERTIES:
+:ID:       f31940b9-dac6-459f-a488-5d5256fe7660
+:END:

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       964c39c8-b900-4aed-8de9-99dd3d1873d8
+:ROAM_ALIASES: NLP
+:END:
+#+title: Natural Language Processing
+#+filetags: NLP
+
+* Tasks
+** Sentiment Analysis                                                   
+:PROPERTIES:
+:ID:       3f2df951-0bf4-40af-b8b4-aff9aed084cd
+:END:

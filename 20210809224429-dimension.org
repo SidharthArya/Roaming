@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e77e042c-1af1-4c86-bb0b-2e451d8df8b6
+:END:
+#+title: Dimension
+
+* Dimensionality Reduction
+:PROPERTIES:
+:ID:       5149279b-7e8c-4e12-91a6-3df12a4296d2
+:END:
+
+** TODO Uniform Manifold Approximation and Projection
+:PROPERTIES:
+:ID:       9c3a6532-29f4-4968-99e6-319cfe0a2049
+:END:

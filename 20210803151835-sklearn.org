@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       8bab6e30-2b33-4224-850b-dd3e23bea7e3
+:ROAM_ALIASES: "Scikit Learn" Scikit-learn
+:END:
+#+title: Sklearn
+
+* Incremental Learning
++ Use ~partial_fit~

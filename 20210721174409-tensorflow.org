@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2c58b931-09a3-49e8-aba7-cf856cc075e8
+:END:
+#+title: Tensorflow
+
+A [[id:7a1dd5ac-1ee4-4484-84fd-0a3336e779c1][Python]] framework for [[id:40c5bd98-eb7a-4ceb-97f1-19964c3e48b9][Deep Learning]]
+
+** Useful functions
++ tf.boolean_mask
+* IO
++ tfio.genome
+
+** TFRecord
+Split dataset apart for parallel computation.
+* Custom Training
+** Gradient Tape

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ce2f21f0-1c34-4df6-8ff3-08c7b949ee52
+:END:
+#+title: Active Noise Cancellation
+

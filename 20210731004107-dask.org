@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       1c7ec6dc-e4d7-459b-841e-37c2e03d84b3
+:END:
+#+title: Dask
+Parallel computing with task scheduling

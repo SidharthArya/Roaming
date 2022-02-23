@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       cde39211-ee22-43d0-9a9d-7ea91b067ae4
+:END:
+#+title: Hammerjs
+#+filetags: :JS:
+
+
+Add touch gestures to webapp

@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       addb3aa1-1dc6-4a5b-9ffb-703373d8e731
+:END:
+#+title: English
+
+
+* Words
+** antisemitism
+Antisemitism is [hostility] to, [prejudice] towards, or [discrimination] against [Jews]. 
+** Veteran
+   [a person who has had long experience in a particular field]
+** Gaff                                                                  :fc:
+   :PROPERTIES:
+   :FC_CREATED: 2021-04-06T06:55:01Z
+   :FC_TYPE:  cloze
+   :ID:       fcef04b2-1ee5-4e35-b168-3c63f5358b34
+   :FC_CLOZE_MAX: -1
+   :FC_CLOZE_TYPE: deletion
+   :END:
+   :REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 | 2.20 |   1 |     0.01 | 2021-04-12T03:18:31Z |
+   :END:
+   {{a large hook}@0}
+** Servility
+   {{an excessive willingness to serve or please others}}
+
+** Laceration
+A deep cut or tear in skin or flesh
+** Honorifics
+An honorific is a title that conveys esteem, courtesy, or respect for position or rank when used in addressing or referring to a person.

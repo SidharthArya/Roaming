@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e0e887c6-d7cf-4ad6-98c4-70acebf7c8d1
+:END:
+#+title: Data
+
+** Data Visualization
+:PROPERTIES:
+:ID:       dd7a141e-f320-4f32-8757-768426da4db3
+:END:

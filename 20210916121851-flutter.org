@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       1cfa8773-17d8-4b0d-ab6f-c8c3b2f1fe90
+:END:
+#+title: Flutter
+#+filetags: :Flutter:
+Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
+
+Flutter uses [[id:1fbc4a00-1f40-48d3-a7cf-62f2e89ff486][Dart]] to generate native code.
+* Features
++ Stateful Hot Reload
++ Expressive and Flexible UI
++ Native Performance
+* Widgets
+Each element on a screen of the flutter app is a widget.
+** Types of Widgets
+*** Stateless Widgets
+*** Stateful Widgets
+** List of Widgets
+*** Scaffold
++ body
++ appbar
+* Libraries
+** dart:core
+** dart:async
+** dart:math
+** dart:convert
+** dart:html
+** dart:io
+* Packages
+
+** Connectivity Plus
+For discovering network connectivity and configuring themselves accordingly.
+
+** Flutter [[id:1c50f6ca-47ae-49cc-91ef-aefaac0503bf][BLoC]]
+
+* Tools
+** Flutter Devtools
+:PROPERTIES:
+:ID:       69f1ae1f-a94e-4e96-bfd4-0bdb70b1ecc0
+:END:
+* Concepts
+** Routes and Navigators

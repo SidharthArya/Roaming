@@ -1,0 +1,87 @@
+:PROPERTIES:
+:ID:       91c1bb7c-c777-4389-9434-c7a73bea12b3
+:END:
+#+title: Swift
+#+filetags: Programming Language
+
+* Declarations
+** let
+Use let to make a constant
+#+begin_src swift
+let implicitInteger = 80
+let implicitDouble = 70.0
+let explicitDouble: Double = 70
+#+end_src
+** var
+use var to make a variable
+#+begin_src swift
+var implicitInteger = 80
+var implicitDouble = 70.0
+var explicitDouble: Double = 70
+#+end_src
+** Question Mark ?
++ Single - Write a question mark after the type of a value to mark the value as optional.
+  #+begin_src swift
+var optionalString: String? = "Hello"
+
+  #+end_src
++ Double - A double question mark indicates a default value
+  #+begin_src swift
+var a = nickname ?? defaultNickName
+
+  #+end_src
+
+* Functions
+#+begin_src swift
+func returnFifteen() -> Int {
+return 1
+}
+
+#+end_src
+Functions can return another function as its value (Functions are a first class type)
+* Data Types
+** Arrays
+Arrays in swift automatically grow as you add elements.
+#+begin_src swift
+let emptyArray: [String] = []
+#+end_src
+** Dictionary
+#+begin_src swift
+let emptyDictionary: [String: Float] = [:]
+#+end_src
+* Control Flow
+** Conditional
++ if
+  In if, statements such as ~if str~ are invalid since they must be a boolean expression
++ switch
+  
+** Loops
++ for-in
++ while
++ repeat-while
+  
+* Frameworks
+** TODO Realm
+** TODO Alamofire
+** TODO Sentry
+https://github.com/getsentry/sentry
+* Misc
+** Including variables in strings
+*** Adding String objects one by one
+#+begin_src switf
+let label = "The width is "
+let width = 94
+let widthLabel = label + String(width)
+
+#+end_src
+*** Using backslash
+#+begin_src swift
+let label = "The width is "
+let width = 94
+let widthLabel = "\(label) \(width)"
+#+end_src
+
+** Making ranges
+~0..<4~ represents a range from 0 to 4
+
+

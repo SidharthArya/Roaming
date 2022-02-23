@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4edac505-1228-4ad6-bc67-fd52912fbaf4
+:END:
+#+title: Emacs
+
+* Org Roam
+:PROPERTIES:
+:ID:       389d6b2c-40f8-4abc-ab56-e53ca525dfad
+:END:

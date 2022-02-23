@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7a73ea46-1f88-42cc-8719-6f4c62f7c01c
+:END:
+#+title: Finance
+
+
+* Investing
+:PROPERTIES:
+:ID:       954772b8-7abd-47d7-a9ae-12716fccadd9
+:END:
+* Financial Terms
+** Price to earning Ratio

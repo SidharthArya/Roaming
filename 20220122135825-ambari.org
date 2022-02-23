@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       207dab0e-1277-49a2-99dc-8977e4c20217
+:END:
+#+title: Ambari
+#+filetags: :Apache:
+

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       7c39a04c-55b1-4f15-9276-94db7ff1f093
+:END:
+#+title: React
+#+filetags: :JS:Frontend:
+
+
+* TBD
+** Rescript https://rescript-lang.org/
+* MaterialUI
+:PROPERTIES:
+:ID:       ff7f2895-ea67-4054-bfa4-a423c24df283
+:END:
+[[id:0667ccfc-58d5-4dbf-abe9-6a00cf92878a][Material Design]] for React

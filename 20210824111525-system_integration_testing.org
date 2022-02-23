@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6415c401-e7c6-43d1-abd7-0635460db5e3
+:ROAM_ALIASES: SIT
+:END:
+#+title: System Integration Testing
+

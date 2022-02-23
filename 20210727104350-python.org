@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       7a1dd5ac-1ee4-4484-84fd-0a3336e779c1
+:END:
+#+title: Python
+#+filetags: :Programming_Language:
+
+* [[id:8e9cd092-a7fe-4e01-a334-d7938546fce6][Threading]]
+Python threading allows you to have different parts of your program
+run concurrently and can simplify your design.
+
+#+begin_src python
+import logging
+import threading
+import time
+
+def thread_function(name):
+    logging.info("Thread %s: starting", name)
+    time.sleep(2)
+    logging.info("Thread %s: finishing", name)
+
+if __name__ == "__main__":
+    format = "%(asctime)s: %(message)s"
+    logging.basicConfig(format=format, level=logging.INFO,
+                        datefmt="%H:%M:%S")
+
+    logging.info("Main    : before creating thread")
+    x = threading.Thread(target=thread_function, args=(1,))
+    logging.info("Main    : before running thread")
+    x.start()
+    logging.info("Main    : wait for the thread to finish")
+    # x.join()
+    logging.info("Main    : all done")
+  
+#+end_src
+
+
+
+* Core
+** Static Variables inside functions
+#+begin_src python
+  def somefunction():
+      somefunction.x = 1;  # A static variable
+#+end_src
+* Tricks
+** Import module form file
+#+begin_src python
+from pydoc import importfile
+module = importfile('/path/to/module.py')
+#+end_src

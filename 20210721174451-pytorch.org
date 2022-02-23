@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       47c9bcbb-59cb-4182-b232-034f218e7ea5
+:END:
+#+title: PyTorch
+
+A [[id:7a1dd5ac-1ee4-4484-84fd-0a3336e779c1][Python]] framework for [[id:40c5bd98-eb7a-4ceb-97f1-19964c3e48b9][Deep Learning]]

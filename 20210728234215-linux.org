@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f0425e92-d496-488a-a61b-becc5903b385
+:END:
+#+title: Linux
+

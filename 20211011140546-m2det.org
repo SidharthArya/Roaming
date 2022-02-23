@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       923fbe2c-22c5-408e-a5d8-5162bdccefda
+:END:
+#+title: M2Det
+

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c9cc6611-8275-418e-bf58-56687859a9af
+:END:
+#+title: Optaplanner
+OptaPlanner is a lightweight, embeddable constraint satisfaction engine which optimizes planning problems. It solves use cases such as:
+
+* References
++ [[https://www.optaplanner.org/][OptaPlanner - Constraint satisfaction solver (Java™, Open Source)]] 

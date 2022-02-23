@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       1f3a623f-7967-4f3b-9d87-49f72fb1eb53
+:ROAM_ALIASES: Heruka "Knowledge King" 明王 विद्याराजा
+:END:
+#+title: Wisdom King
+
+A type of diety in [[id:a6138eb4-651b-464d-b233-d9b2b5466416][Chinese Buddhism]], [[id:c530d783-5177-45ae-8a58-0dc912969636][Japanese Buddhism]], [[id:5aa9f5ed-8b4d-4f96-9a63-db128d8d4d02][Tibetan
+Buddhism]].
+Classed as third after [[id:0c4fa371-df17-4a64-869c-6ce56a0808a4][Buddha]] and [[id:ba849f6b-d215-4be4-b358-2d2ed5bb1932][Bodhisattva]] in Japanese.
+
+
+
+* Acala
+:PROPERTIES:
+:ID:       bfe08db7-049d-4867-9238-dd19379b4906
+:ROAM_ALIASES: "The Immovable One"
+:END:
+Wrathful manifestation of Buddha [[id:ab60c70e-0fb7-4a14-9704-25e31fb491ae][Mahavairocana]]
+
+* Trailokyavijaya
+:PROPERTIES:
+:ID:       40ee594f-f4a1-4d7c-930c-4705cea8ca43
+:ROAM_ALIASES: "The Conqueror of the Three Planes"
+:END:
+Wrathful manifestation of Akshobhya
+
+* Kundali
+
+* Yamantaka
+
+* Vajrayaksa

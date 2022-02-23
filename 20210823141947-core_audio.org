@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ee551879-f1f0-45a6-aaab-10ee353c842c
+:END:
+#+title: Core Audio
+#+filetags: Apple Frameworks Apple
+
+* APIS
+** Audio Units
+** Audio Queues
+** OpenAL

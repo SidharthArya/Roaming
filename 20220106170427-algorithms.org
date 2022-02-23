@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       f00d23ad-012c-4c31-b2d5-2099801119b3
+:END:
+#+title: Algorithms
+
+
+* Optimization Algorithms
+:PROPERTIES:
+:ID:       99ecb9b1-996c-47d0-a6fa-ae7a41cf57c1
+:END:
+** Exhaustive Search
+:PROPERTIES:
+:ID:       f9746940-1d30-4f3a-94c6-7c3743b6c95d
+:END:
+*** Brute Force Algorithm
+*** Branch And Bound
+** Constructive Heuristics
+*** First Fit
+*** First Fit Decreasing
+*** Weakest Fit
+*** Weakest Fit Decreasing
+*** Strongest Fit
+*** Strongest Fit Decreasing
+*** Cheapest Insertion
+*** Regret Insertion

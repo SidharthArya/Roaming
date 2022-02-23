@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       c6fc4b6a-f2b3-4ebf-8bde-fb641c48bd98
+:END:
+#+title: Java
+#+filetags: :Programming_Language:
+

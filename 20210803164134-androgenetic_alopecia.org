@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       bf6187f7-c8be-42b6-911d-78fb09874b32
+:END:
+#+title: Androgenetic Alopecia
+
+
+
+* Treatments
++ [[id:bb069679-2e33-4799-934b-16b10edadc4a][Finasteride]]
++ [[id:5d8f3f5c-919b-4cd4-b8f7-98d417ebf743][Minoxidil]]
+
+** Future
+*** Smart Hari Transplant
+*** HST-001
