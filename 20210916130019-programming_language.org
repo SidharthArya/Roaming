@@ -15,5 +15,10 @@ A type-safe language is one where the only operations that one can execute on da
 :END:
 ** Sound Null Safety
 Values cant be null unless you say they can be.
+** Declarative Language
+:PROPERTIES:
+:ID:       dd3ac7e4-e3cf-4f44-88c6-7a29e0ec6edb
+:END:
+A program specifies what is to be done rather than how to do it
 * Languages
 + [[id:7a1dd5ac-1ee4-4484-84fd-0a3336e779c1][Python]]

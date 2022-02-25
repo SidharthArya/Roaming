@@ -1,6 +1,6 @@
 # Roaming
 
-My Personal notes roaming around in the infinite space
+My random personal notes roaming around in the infinite space
 
 # Installation (for me)
 ```

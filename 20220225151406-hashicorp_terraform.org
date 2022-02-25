@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       9efd05cb-feaf-4fd9-ab7b-84b6693b60e9
+:ROAM_ALIASES: Terraform
+:END:
+#+title: Hashicorp Terraform
+
+Terraform is an open source infrastructure as code software tool that provides a consistentt cli workflow to manage
+
+
+* Deploy Infrastructure
+
++ Scope
++ Author
++ Initialize
++ Plan
++ Apply
