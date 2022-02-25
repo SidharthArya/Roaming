@@ -21,4 +21,6 @@ Terraform settings
 :PROPERTIES:
 :ID:       f5b6da6e-5e3c-460d-867e-3033813b8372
 :END:
-
++ terraform init
++ terraform fmt
++ terraform apply
