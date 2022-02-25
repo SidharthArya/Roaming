@@ -23,4 +23,5 @@ Terraform settings
 :END:
 + terraform init
 + terraform fmt
++ terraform vallidate
 + terraform apply
