@@ -25,3 +25,4 @@ Terraform settings
 + terraform fmt
 + terraform vallidate
 + terraform apply
++ terraform show
