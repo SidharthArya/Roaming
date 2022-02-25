@@ -4,4 +4,7 @@
 #+title: Data Structures
 
 * Graph
+:PROPERTIES:
+:ID:       325718c7-b0c0-4d6d-a7e5-11a2d4261534
+:END:
 
