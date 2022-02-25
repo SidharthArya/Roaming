@@ -3,6 +3,7 @@
 :ROAM_ALIASES: Terraform
 :END:
 #+title: Hashicorp Terraform
+#+filetags: :Devops:
 
 Terraform is an open source infrastructure as code software tool that provides a consistentt cli workflow to manage
 
