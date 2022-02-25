@@ -26,4 +26,5 @@ Terraform settings
 + terraform vallidate
 + terraform apply
 + terraform show
-+ terraform state lis
++ terraform state list
++ 
