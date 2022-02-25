@@ -15,6 +15,7 @@
 :END:
 
 Graoh Neural networks are neural models that capture the dependence of [[id:325718c7-b0c0-4d6d-a7e5-11a2d4261534][graphs]].
+
 ** Convolutional Neural Networks
 :PROPERTIES:
 :ID:       7947dad5-fb28-479e-9167-ebeb092e504f
