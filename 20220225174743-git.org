@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       13a2469f-8dae-4d46-a3c4-dee8713689c0
+:END:
+#+title: Git
+
+
+* Git Hooks
+:PROPERTIES:
+:ID:       8a537bf7-e711-4d4f-aace-bb43988489b6
+:END:
