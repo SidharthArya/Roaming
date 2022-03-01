@@ -15,4 +15,3 @@ A data lake is a centralized repository that allows you to store all your struct
 :PROPERTIES:
 :ID:       b8556198-370a-4d15-bce9-356e524c1aaa
 :END:
-
