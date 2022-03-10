@@ -49,3 +49,5 @@ Browsers transpile [[id:5027dd99-7e6b-4943-974f-45daf13ff361][Typescript]] to [[
 ** console.log()
 ** console.table()
 ** console.time("LABEL") -> console.timeEnd("LABEL")
+** console.dir
+Object version of the element
