@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       c497d70b-69b9-4dbb-a77e-4188c15fd9ab
+:END:
+#+title: Elasticsearch
+
+
+Free to use and open source distributed [[id:a44fb40a-5d8e-4729-b3e0-4998f0f4e058][RESTful]] search and analytics engine.
