@@ -42,3 +42,10 @@ Browsers transpile [[id:5027dd99-7e6b-4943-974f-45daf13ff361][Typescript]] to [[
 :END:
  making date and time better on the web
 ** 
+* Logging
+:PROPERTIES:
+:ID:       e3a024e5-35ca-40fb-a759-db559aaf1242
+:END:
+** console.log()
+** console.table()
+** console.time("LABEL") -> console.timeEnd("LABEL")
