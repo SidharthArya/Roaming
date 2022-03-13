@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       6bacfc6a-98e6-4061-8f8e-6714d80907b6
+:END:
+#+title: Robotics
+* Robotic Process Automation
+:PROPERTIES:
+:ID:       39e0b0cf-030d-4337-931c-392b0df76877
+:ROAM_ALIASES: RPA
+:END:
