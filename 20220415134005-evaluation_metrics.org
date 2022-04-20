@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       bbeb4032-2b53-4d34-93b5-abdc905d437c
+:END:
+#+title: Evaluation Metrics
+
+* Regression
+** Mean Absolute Error
+** Mean Squared Error
+** Root Mean Squared Error
+** RMSLE
+** R Squared
+** Adjusted R Squares  

@@ -2,9 +2,21 @@
 :ID:       771b6029-b10e-4e3b-b012-13fa21443c1f
 :END:
 #+title: Protocol
+#+filetags: :Protocol:
 
 * Technical Protocols
 :PROPERTIES:
 :ID:       2af297fd-e766-47c7-ba23-52be38e8c012
 :END:
 ** Real Time Streaming Protocol
+:PROPERTIES:
+:ID:       734df629-976d-4cd2-abdf-d813c4298839
+:END:
+** Hyper Text Transfer Protocol                               :HTTP:Protocol:
+:PROPERTIES:
+:ID:       07aa19f9-dbb9-4c57-9560-23d8e410458a
+:END:
+*** Error Codes
+:PROPERTIES:
+:ID:       7bf02bb9-66ae-4b4c-9bd9-7cb8db65cf74
+:END:

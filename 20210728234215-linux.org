@@ -2,4 +2,13 @@
 :ID:       f0425e92-d496-488a-a61b-becc5903b385
 :END:
 #+title: Linux
-
+* Init Systems
+** Systemd
+:PROPERTIES:
+:ID:       80fc7554-7d85-4d9f-925a-1c61ddf8aec1
+:END:
+*** Tricks
++ Enable user services on boot
+  #+BEGIN_SRC bash
+    sudo loginctl enable-linger username
+  #+END_SRC

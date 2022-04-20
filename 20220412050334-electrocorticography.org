@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       dd833c67-e433-4567-a1bf-74f6fad907ae
+:ROAM_ALIASES: EcoG
+:END:
+#+title: Electrocorticography
+

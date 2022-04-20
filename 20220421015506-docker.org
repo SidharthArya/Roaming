@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       88736b49-d94a-440d-9001-3fbf5e7d54f7
+:END:
+#+title: Docker
+#+filetags: :Containerization:
+

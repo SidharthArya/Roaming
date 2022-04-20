@@ -16,11 +16,12 @@ Antisemitism is [hostility] to, [prejudice] towards, or [discrimination] against
    :ID:       fcef04b2-1ee5-4e35-b168-3c63f5358b34
    :FC_CLOZE_MAX: -1
    :FC_CLOZE_TYPE: deletion
+   :ROAM_EXCLUDE: t
    :END:
    :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|
-|        0 | 2.20 |   1 |     0.01 | 2021-04-12T03:18:31Z |
+|        0 | 2.20 |   2 |     1.00 | 2022-03-26T21:42:26Z |
    :END:
    {{a large hook}@0}
 ** Servility

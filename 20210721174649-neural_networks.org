@@ -32,3 +32,14 @@ Graoh Neural networks are neural models that capture the dependence of [[id:3257
 *** Multistage
 *** Applications
 + Recommender Systems
+** Generative Adversarial Networks
+:PROPERTIES:
+:ID:       4db30991-d5ef-458e-9c84-96555aa56907
+:ROAM_ALIASES: GAN
+:END:
+*** CycleGANS
+*** DCGANs
+*** Conditional GANs
+*** StyleGANs
+*** StackGANs
+*** EditGAN

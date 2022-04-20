@@ -8,3 +8,9 @@
 :PROPERTIES:
 :ID:       2ce22a5b-6efc-48d7-9d7b-f7d80644c68e
 :END:
+* Ensemble Learning
+:PROPERTIES:
+:ID:       ffabe8e0-2586-43f2-a5c1-8fd186c8b340
+:END:
+
+Ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone.

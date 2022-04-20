@@ -1,8 +1,9 @@
 :PROPERTIES:
 :ID:       0a2bdcbe-8121-437d-b311-c3aabeacf47f
+:ROAM_ALIASES: GCP "Google Cloud Platform"
 :END:
 #+title: Google Cloud
-#+filetags: :Cloud:Google:
+#+filetags: :GCP:Cloud:Google:
 
 
 * BigQuery ML
