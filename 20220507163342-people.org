@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bd1b6f9a-9d08-47ec-9e9b-1cdc73957822
+:END:
+#+title: People
+
+* Sociologist
+:PROPERTIES:
+:ID:       d1a8390f-7860-45ae-89c5-d909d587d472
+:END:
+** Emile Durkheim
+:PROPERTIES:
+:ID:       bc8eafe3-8236-4688-b9fb-f512482c1b31
+:END:
+
+* Physicists
+:PROPERTIES:
+:ID:       207c5a42-bfb9-4eb2-8e2f-4d7582829bb6
+:END:
+** Albert Einstein
+:PROPERTIES:
+:ID:       40ebd251-fab7-4c7a-afbd-e5607b1a8b0d
+:END:

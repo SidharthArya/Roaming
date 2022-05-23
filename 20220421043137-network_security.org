@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c2de3ebe-f05e-4231-83eb-8a0d466eebe7
+:END:
+#+title: Network Security
+#+filetags: :Security:
+
+* Miscellaneous
+** Bastion Host
+A bastion host is a special-purpose computer on a network specifically designed and configured to withstand attacks. The computer generally hosts a single application, for example a proxy server, and all other services are removed or limited to reduce the threat to the computer. It is hardened in this manner primarily due to its location and purpose, which is either on the outside of a firewall or inside of a demilitarized zone (DMZ) and usually involves access from untrusted networks or computers.
+
+
+*** Examples
+[[https://github.com/jumpserver/jumpserver][jumpserver/jumpserver: First open source Bastion Host]] (Loosely translated from chinese)

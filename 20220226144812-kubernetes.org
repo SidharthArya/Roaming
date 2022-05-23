@@ -3,3 +3,6 @@
 :END:
 #+title: Kubernetes
 
+
+* Server Side Apply
+Server Side apply helps users and controllers manage their resources through declarative configurations.

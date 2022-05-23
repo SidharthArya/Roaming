@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d5767b8d-d898-4d46-a47c-b066adf6906e
+:END:
+#+title: Chinese
+#+filetags: :Language:
+
+Chinese is a [[id:a448ea7f-86c8-400a-acb5-63edce6f90d7][Isolating Language]]

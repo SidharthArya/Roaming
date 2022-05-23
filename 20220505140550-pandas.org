@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       3fd57e8f-e8cf-4939-b150-700c9eb1abb2
+:END:
+#+title: Pandas
+#+filetags: :Python:
+
+* Tricks
+** Evaluate formula
+#+begin_src python
+  formula = "(2*a+b)/c"
+  df.eval(formula)
+  
+#+end_src

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5e0f4409-2bdc-438a-a410-a752f2bb1f05
+:END:
+#+title: Github
+
+* Github Workflows
+:PROPERTIES:
+:ID:       22abe5d8-9bed-4d58-be2a-c830a77df6ef
+:END:
+

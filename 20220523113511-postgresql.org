@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       deaf25a6-de22-4859-9ca2-292c0047ee2a
+:END:
+#+title: Postgresql
+
+* Tricks
++ Expand Output Lines
+  #+BEGIN_SRC postgresql
+\x on
+  #+END_SRC

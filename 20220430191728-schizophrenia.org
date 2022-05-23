@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       fba572bb-adcf-45e7-9e84-573ec65e50d7
+:END:
+#+title: Schizophrenia
+
+* Positive Symptoms
++ Delusion
++ Hallucinations
++ Disordered speech and behavior
+* Negative Symptoms
++ Motivation
++ Expression of emotion and speech
+* Cognitive Symptoms
++ Difficult concentrating
++ Remembering information
++ Making Decision

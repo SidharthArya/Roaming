@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       93bdc0a8-ba76-4794-9e64-23fef7bf387f
+:END:
+#+title: Queuing Theory
+Queuing theory is a branch of [[id:bb51a273-0180-4511-a6a6-4e1ff4d1a952][mathematics]] that studies how lines form, how they function, and why they malfunction. Queuing theory examines every component of waiting in line, including the arrival process, service process, number of servers, number of system places, and the number of customers—which might be people, data packets, cars, or anything else.[fn:1]
+
+
+* Footnotes
+
+[fn:1] https://www.investopedia.com/terms/q/queuing-theory.asp#:~:text=Queuing%20theory%20is%20the%20study,cost-effective%20services%20and%20systems. 

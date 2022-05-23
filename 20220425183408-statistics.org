@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3f6494e5-9007-47da-ba95-aba2f7ccc978
+:END:
+#+title: Statistics
+
+* Transformations
+** TODO Boxcox Transformation
+*** References
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.boxcox.html

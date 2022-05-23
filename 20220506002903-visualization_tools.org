@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8880bf92-2c6d-40be-86b3-7b9f0245ed14
+:END:
+#+title: Visualization Tools
+
+* Gource
+:PROPERTIES:
+:ID:       06479af4-ede2-4740-981e-ccffc8c40e2b
+:END:
+Version Control Visualization Tool
+Works for:
++ [[id:13a2469f-8dae-4d46-a3c4-dee8713689c0][Git]]
+* Logstalgia
+:PROPERTIES:
+:ID:       ce9b4fe4-194b-4a70-9e03-56f6f1290ad7
+:END:
+a website traffic visualization that replays or streams web-server access logs as a pong-like battle between the web server and an never ending torrent of requests.

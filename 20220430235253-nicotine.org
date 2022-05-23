@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       54350b86-b7b5-423b-8b16-e67cd85c3c99
+:END:
+#+title: Nicotine
+
+
+Releases [[id:14ec212d-1b68-4ed8-bb31-0f67f4729ffd][Seratonin]] and [[id:9e31312d-bf5e-4289-9064-dc1e916417be][Dopamine]]

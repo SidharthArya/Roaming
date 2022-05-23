@@ -1,0 +1,84 @@
+:PROPERTIES:
+:ID:       5f75b86c-ac38-4027-b2eb-65c12a5ed0ac
+:END:
+#+title: Japanese
+#+filetags: :Language:
+
+* Words
+* Characters
+** 平仮名
+*** か                                                                   :fc:
+    :PROPERTIES:
+    :FC_CREATED: 2021-04-12T03:17:10Z
+    :FC_TYPE:  cloze
+    :ID:       0afe38eb-071f-4361-a758-5a2e43a770c6
+    :FC_CLOZE_MAX: 0
+    :FC_CLOZE_TYPE: deletion
+    :ROAM_EXCLUDE: t
+    :END:
+    :REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |   0 |        0 | 2021-04-12T03:17:10Z |
+    :END:
+    {{ka}@0}
+*** き                                                                   :fc:
+    :PROPERTIES:
+    :FC_CREATED: 2021-04-12T03:19:15Z
+    :FC_TYPE:  cloze
+    :ID:       99f180a2-f2aa-4e38-a9de-3dc9dce1af56
+    :FC_CLOZE_MAX: 0
+    :FC_CLOZE_TYPE: deletion
+    :ROAM_EXCLUDE: t
+    :END:
+    :REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |   0 |        0 | 2021-04-12T03:19:15Z |
+    :END:
+    {{ki}@0}
+*** く                                                                   :fc:
+    :PROPERTIES:
+    :FC_CREATED: 2021-04-12T03:19:20Z
+    :FC_TYPE:  cloze
+    :ID:       e2868e06-e416-4218-89d8-b90fda9907a3
+    :FC_CLOZE_MAX: 0
+    :FC_CLOZE_TYPE: deletion
+    :ROAM_EXCLUDE: t
+    :END:
+    :REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |   0 |        0 | 2021-04-12T03:19:20Z |
+    :END:
+    {{ku}@0}
+*** け                                                                   :fc:
+    :PROPERTIES:
+    :FC_CREATED: 2021-04-12T03:19:25Z
+    :FC_TYPE:  cloze
+    :ID:       bafcd32a-b72d-4bc8-91a8-957e8b2b6c49
+    :FC_CLOZE_MAX: 0
+    :FC_CLOZE_TYPE: deletion
+    :ROAM_EXCLUDE: t
+    :END:
+    :REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |   0 |        0 | 2021-04-12T03:19:25Z |
+    :END:
+    {{ke}@0}
+*** こ                                                                   :fc:
+    :PROPERTIES:
+    :FC_CREATED: 2021-04-12T03:19:30Z
+    :FC_TYPE:  cloze
+    :ID:       a5382f37-ef8e-4d8a-b93a-e124e9ec2a19
+    :FC_CLOZE_MAX: 0
+    :FC_CLOZE_TYPE: deletion
+    :ROAM_EXCLUDE: t
+    :END:
+    :REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+|        0 |  2.5 |   0 |        0 | 2021-04-12T03:19:30Z |
+    :END:
+    {{ko}@0}

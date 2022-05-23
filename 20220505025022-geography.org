@@ -1,0 +1,115 @@
+:PROPERTIES:
+:ID:       c653338d-4a03-47c1-ae49-11145ca1bf22
+:END:
+#+title: Geography
+#+filetags: :Geography:
+
+* Continent                                             :Continent:Geography:
+:PROPERTIES:
+:ID:       9e1db1a7-77c9-456b-93d4-ee5d2f0eb1a0
+:END:
+** Asia
+:PROPERTIES:
+:ID:       6ddebf05-b9cf-492e-ac30-db95010d3dca
+:END:
+** Europe
+:PROPERTIES:
+:ID:       c660568a-970f-4a04-9428-0b78f4788f66
+:END:
+** Africa
+:PROPERTIES:
+:ID:       2b7373be-2da4-417f-879a-eb4dca412273
+:END:
+** Australia
+:PROPERTIES:
+:ID:       d276cc69-5a52-4b3b-96a7-a99dbecabf2f
+:END:
+** North America
+:PROPERTIES:
+:ID:       995421c9-f977-4fd8-8fdf-3a2479e8d7c2
+:END:
+** South America
+:PROPERTIES:
+:ID:       0d1f415c-6804-4087-9585-fb4a75e81c60
+:END:
+** Antarctica
+:PROPERTIES:
+:ID:       27c0b247-7b2f-4613-8cfa-45a24725f020
+:END:
+* Country                                                 :Country:Geography:
+:PROPERTIES:
+:ID:       99023e0b-07f8-484f-aab9-9bc1df5f8d97
+:END:
+** India
+:PROPERTIES:
+:ID:       c753da34-8839-488b-b43f-5416b592bbc2
+:END:
+In [[id:6ddebf05-b9cf-492e-ac30-db95010d3dca][Asia]]
+** United States of America
+:PROPERTIES:
+:ID:       7dc2bc93-8dfc-4888-ab3b-768eae85873a
+:ROAM_ALIASES: "United States" USA "The United States of America"
+:END:
+A country in [[id:995421c9-f977-4fd8-8fdf-3a2479e8d7c2][North America]]
+** Canada
+:PROPERTIES:
+:ID:       a98b673d-79a7-4cfd-9915-4ecabc57a711
+:END:
+A country in [[id:995421c9-f977-4fd8-8fdf-3a2479e8d7c2][North America]]
+* City                                                       :City:Geography:
+:PROPERTIES:
+:ID:       20969fcf-1a8d-4b20-b4ff-af547e0f062e
+:END:
+** Delhi
+:PROPERTIES:
+:ID:       8e900404-9419-48c6-b620-18091e56b2b1
+:END:
+** Bangalore
+:PROPERTIES:
+:ID:       e5d8e820-d332-40fe-a542-1af88ead1848
+:END:
+** Phoenix
+:PROPERTIES:
+:ID:       53a86750-0796-4ea4-a2a7-d11ac9005da5
+:END:
+A city in [[id:5c17488f-d7ed-4797-993f-5de42d3ab272][Arizona]]
+** Atlanta
+:PROPERTIES:
+:ID:       75626815-3053-47dd-9854-e8765cef5cd1
+:END:
+A city in [[id:0c4abc43-4b89-474d-b1d0-8b55070549d8][Georgia]]
+** Tampa
+:PROPERTIES:
+:ID:       68bcc948-634b-47ce-9214-b12610d231a1
+:END:
+A city in [[id:a8f4e980-6f14-4706-9193-bf49b58a48a6][Florida]]
+* State                                                    :State:Geography:
+:PROPERTIES:
+:ID:       56f64441-f957-4e43-a340-35796b98527b
+:END:
+** Georgia
+:PROPERTIES:
+:ID:       0c4abc43-4b89-474d-b1d0-8b55070549d8
+:END:
+** Arizona
+:PROPERTIES:
+:ID:       5c17488f-d7ed-4797-993f-5de42d3ab272
+:ROAM_ALIASES: "The Grand Canyon State"
+:END:
+A state in western [[id:7dc2bc93-8dfc-4888-ab3b-768eae85873a][United States]]
+
+** Florida
+:PROPERTIES:
+:ID:       a8f4e980-6f14-4706-9193-bf49b58a48a6
+:END:
+
+* River                                                    :Rivers:Geography:
+:PROPERTIES:
+:ID:       7fb507d5-57da-4017-8fca-0dc9dba7517b
+:END:
+
+* Mountain                                               :Mountain:Geography:
+:PROPERTIES:
+:ID:       53735e19-5ca6-4756-a115-4ee8fd80e274
+:END:
+

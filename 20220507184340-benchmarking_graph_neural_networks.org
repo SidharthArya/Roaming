@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a8868eae-bbc8-4a7f-9c56-25d0ea1a1ea2
+:ROAM_REFS: cite:dwivedi20_bench_graph_neural_networ
+:END:
+#+title: Benchmarking Graph Neural Networks
+#+filetags: :Paper:
+
+* Notes
+  :PROPERTIES:
+  :NOTER_DOCUMENT: /home/arya/Downloads/Papers/2003.00982.pdf
+  :END:
+** Abstract
+:PROPERTIES:
+:NOTER_PAGE: [[pdf:~/Downloads/Papers/2003.00982.pdf::1++1.59;;annot-1-37]]
+:END:
+ 
