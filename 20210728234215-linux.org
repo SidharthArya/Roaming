@@ -12,3 +12,10 @@
   #+BEGIN_SRC bash
     sudo loginctl enable-linger username
   #+END_SRC
++ If a file changes execute a command
+  #+BEGIN_SRC bash
+    while inotifywait -e close_write *.tex;
+    do pdflatex main.tex && bibtex main && pdflatex main.tex;
+    done
+  #+END_SRC
+ 
