@@ -18,5 +18,3 @@
     do pdflatex main.tex && bibtex main && pdflatex main.tex;
     done
   #+END_SRC
-
- 
