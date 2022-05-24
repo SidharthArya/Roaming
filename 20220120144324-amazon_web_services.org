@@ -28,6 +28,11 @@ A data lake is a centralized repository that allows you to store all your struct
 :ID:       00b878ca-8daf-430d-834c-3d9c98d3e381
 :ROAM_ALIASES: EKS
 :END:
+* Elastic Block Storage
+:PROPERTIES:
+:ID:       333590a6-0f8a-4050-89cb-5d01ee415c6f
+:ROAM_ALIASES: EBS
+:END:
 ** Tools
 + eksctl
 + awscli
