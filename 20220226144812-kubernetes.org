@@ -2,6 +2,7 @@
 :ID:       328bc221-6334-4992-955e-ae62a33184a0
 :END:
 #+title: Kubernetes
+#+filetags: :Kubernetes:
 
 
 * Server Side Apply
@@ -12,4 +13,10 @@ Server Side apply helps users and controllers manage their resources through dec
 :ID:       b6b5561e-6964-48e5-b99c-7a752fd9674b
 :END:
 
-Horizontal Pod
+** Requirements
++ Resource management
+
+* DaemonSet
+:PROPERTIES:
+:ID:       01b9ba27-2004-4407-949d-67eef131bd35
+:END:
