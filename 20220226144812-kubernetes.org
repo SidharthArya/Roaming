@@ -28,3 +28,7 @@ Server Side apply helps users and controllers manage their resources through dec
     kubectl explain --api-version=autoscaling/v2beta2 HorizontalPodAutoscaler.spec
   #+END_SRC
   
++ Get an interactive terminal for a running pod
+  #+BEGIN_SRC bash
+    kubectl exec --stdin --tty pod_name -- /bin/sh
+  #+END_SRC
