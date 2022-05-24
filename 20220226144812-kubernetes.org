@@ -27,3 +27,4 @@ Server Side apply helps users and controllers manage their resources through dec
   #+BEGIN_SRC bash
     kubectl explain --api-version=autoscaling/v2beta2 HorizontalPodAutoscaler.spec
   #+END_SRC
+  

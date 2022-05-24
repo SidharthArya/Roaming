@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       193fc81f-deae-4218-af46-1b5085cbdb8c
+:END:
+#+title: Spring Boot
+
+
+[[id:c6fc4b6a-f2b3-4ebf-8bde-fb641c48bd98][Java]] based framework
