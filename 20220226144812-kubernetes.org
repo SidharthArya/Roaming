@@ -6,3 +6,9 @@
 
 * Server Side Apply
 Server Side apply helps users and controllers manage their resources through declarative configurations.
+
+* Horizontal Pod Autoscaling
+:PROPERTIES:
+:ID:       b6b5561e-6964-48e5-b99c-7a752fd9674b
+:END:
+
