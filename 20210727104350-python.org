@@ -47,3 +47,7 @@ if __name__ == "__main__":
 from pydoc import importfile
 module = importfile('/path/to/module.py')
 #+end_src
+** List of all variables
+#+BEGIN_SRC python
+  locals()['var_name']
+#+END_SRC
