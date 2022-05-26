@@ -51,3 +51,4 @@ module = importfile('/path/to/module.py')
 #+BEGIN_SRC python
   locals()['var_name']
 #+END_SRC
+ 
