@@ -36,6 +36,8 @@ if __name__ == "__main__":
 * Function Arguments
 ** Passing variable number of inputs
 #+BEGIN_SRC python
+  def function(*args):  # Passes a list of tuple
+      print(args)
 #+END_SRC
 
 * Core
