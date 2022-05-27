@@ -41,6 +41,9 @@ if __name__ == "__main__":
   
   def function2(**kargs):
       print(kargs)   # Passes a list of keyword arguments in dictionary form
+  
+  function1("a", "b")
+  function2(a="a", b="b")
 #+END_SRC
 
 * Core
