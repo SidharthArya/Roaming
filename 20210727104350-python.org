@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
 * Function Arguments
 ** Passing variable number of inputs
-#+BEGIN_SRC python
+#+BEGIN_SRC python :results output
   def function1(*args):  # Passes a list of tuple
       print(args)
   
@@ -45,6 +45,10 @@ if __name__ == "__main__":
   function1("a", "b")
   function2(a="a", b="b")
 #+END_SRC
+
+#+RESULTS:
+: ('a', 'b')
+: {'a': 'a', 'b': 'b'}
 
 * Core
 ** Static Variables inside functions
