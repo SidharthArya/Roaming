@@ -36,8 +36,11 @@ if __name__ == "__main__":
 * Function Arguments
 ** Passing variable number of inputs
 #+BEGIN_SRC python
-  def function(*args):  # Passes a list of tuple
+  def function1(*args):  # Passes a list of tuple
       print(args)
+  
+  def function2(**kargs):
+      print(kargs)   # Passes a list of keyword arguments in dictionary form
 #+END_SRC
 
 * Core
