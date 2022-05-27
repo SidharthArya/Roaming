@@ -33,7 +33,10 @@ if __name__ == "__main__":
   
 #+end_src
 
-
+* Function Arguments
+** Passing variable number of inputs
+#+BEGIN_SRC python
+#+END_SRC
 
 * Core
 ** Static Variables inside functions
