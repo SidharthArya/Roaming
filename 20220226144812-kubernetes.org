@@ -21,6 +21,8 @@ Server Side apply helps users and controllers manage their resources through dec
 :ID:       01b9ba27-2004-4407-949d-67eef131bd35
 :END:
 
+* Provisioning Storage
+** Dynamic Provisioning
 
 * Tips & Tricks
 + Get an explaination of specs
