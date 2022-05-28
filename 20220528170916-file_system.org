@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       cd02aaf3-a805-484a-bbcb-1f63cf29f3de
+:END:
+#+title: File System
+
+
+* Network File System
+:PROPERTIES:
+:ID:       dd1b0ab9-530f-4f00-be64-28c0573db757
+:ROAM_ALIASES: NFS
+:END:
+
