@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9081505d-d09d-4abe-bb34-9b161c2e453a
+:ROAM_ALIASES: "C Plus Plus"
+:END:
+#+title: C++
+
