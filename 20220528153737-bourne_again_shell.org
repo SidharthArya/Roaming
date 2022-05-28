@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       a0bb68c5-5935-4790-9542-cf9591467eeb
+:ROAM_ALIASES: Bash
+:END:
+#+title: Bourne Again Shell
+
+
