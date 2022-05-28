@@ -38,8 +38,13 @@
 :ID:       a0ab8690-0c3f-424b-9600-89fba7f7fcb2
 :ROAM_REFS: https://cloud.google.com/appengine#section-4
 :END:
+* Google Kubernetes Engine
+:PROPERTIES:
+:ID:       27b018e3-c7cb-417c-a99c-ee84a9811e9c
+:ROAM_ALIASES: GKE
+:END:
 
-
+[[id:328bc221-6334-4992-955e-ae62a33184a0][Kubernetes]] engine on google cloud
 ** Deploy
 #+BEGIN_SRC bash
 gcloud app deploy
