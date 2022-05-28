@@ -36,3 +36,8 @@ A data lake is a centralized repository that allows you to store all your struct
 ** Tools
 + eksctl
 + awscli
+* Elastic File System
+:PROPERTIES:
+:ID:       5db2372e-1555-43f9-afe2-632cbb999270
+:END:
+Simple, Serverless, Set and Forget, [[id:dd1b0ab9-530f-4f00-be64-28c0573db757][Network File System]]
