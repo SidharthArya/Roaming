@@ -10,3 +10,4 @@
 ** RMSLE
 ** R Squared
 ** Adjusted R Squares  
+** Kendall Tau Correlation
