@@ -68,3 +68,7 @@ module = importfile('/path/to/module.py')
   locals()['var_name']
 #+END_SRC
  
+* Pathlib
+:PROPERTIES:
+:ID:       63ba02af-f26f-4beb-9658-332d7325dcef
+:END:
