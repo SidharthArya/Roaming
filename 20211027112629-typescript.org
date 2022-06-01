@@ -35,6 +35,8 @@ Browsers transpile [[id:5027dd99-7e6b-4943-974f-45daf13ff361][Typescript]] to [[
 **** Notes
 + ~let~ doesn't allow to change variable types on the fly like ~var~ does, unless the variable type is set to any
 *** Arrow Functions
+*** Async
+an async function returns a Promise Object.
 * Modules
 ** Moment.js 
 :PROPERTIES:
