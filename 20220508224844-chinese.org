@@ -5,3 +5,5 @@
 #+filetags: :Language:
 
 Chinese is a [[id:a448ea7f-86c8-400a-acb5-63edce6f90d7][Isolating Language]]
+* Resources
++ [[https://github.com/chinese-poetry/chinese-poetry][chinese-poetry/chinese-poetry: The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。]]

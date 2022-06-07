@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       9b0d5283-fa59-4cda-8bea-22cb4b4f2fd3
+:END:
+#+title: Grafana k6
+
+Grafana k6 is an open source load testing tool that makes performance testing easy and productive for engineering teams.
+
+* Virtual Users

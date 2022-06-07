@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       f44d3854-8ffd-4fc1-9ab6-419f70d82113
+:END:
+#+title: AppleScript
+

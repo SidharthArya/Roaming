@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       be6ad337-a891-4575-998e-6cd358f7abf3
+:END:
+#+title: Software Testing
+
+
+* Performance Testing
+:PROPERTIES:
+:ID:       7f0b8b60-c3b2-4f4f-a64b-d2d3be491034
+:END:
+Performance testing refers to testing related to verifying the system's performance and monitoring and how it behaves under stress.
+*Metrics*
++ Reliability
++ Stability
++ Response Time
++ Scalability
+** Load Testing
+:PROPERTIES:
+:ID:       9d6586c2-dbf6-412d-b83a-9c6df77072d2
+:END:
+Load testing specifically tries to identify how the application behaves under expected loads
+
+** Stress Testing
+:PROPERTIES:
+:ID:       b96ec84f-59e6-4e51-a7ae-2047cb804d00
+:END:
+Stress testing helps to detect the breaking point of an application.
