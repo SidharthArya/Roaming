@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       dcfb779d-bc85-4141-82da-c7107ac92457
+:END:
+#+title: PHP
+#+filetags: :PHP:
+
+
+* Package Manager
+** Composer
+:PROPERTIES:
+:ID:       fa37ee22-8345-4cc6-a87f-708fcc886607
+:END:
+
+* Tips
+** Backtrace
++ Xdebug extension

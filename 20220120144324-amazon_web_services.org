@@ -28,6 +28,7 @@ A data lake is a centralized repository that allows you to store all your struct
 :ID:       00b878ca-8daf-430d-834c-3d9c98d3e381
 :ROAM_ALIASES: EKS
 :END:
+[[id:328bc221-6334-4992-955e-ae62a33184a0][Kubernetes]] engine on aws
 * Elastic Block Storage
 :PROPERTIES:
 :ID:       333590a6-0f8a-4050-89cb-5d01ee415c6f
@@ -41,3 +42,16 @@ A data lake is a centralized repository that allows you to store all your struct
 :ID:       5db2372e-1555-43f9-afe2-632cbb999270
 :END:
 Simple, Serverless, Set and Forget, [[id:dd1b0ab9-530f-4f00-be64-28c0573db757][Network File System]]
+* Relational Database Service
+:PROPERTIES:
+:ID:       b855a771-80cd-4c1b-a0c1-c2ba1ede0249
+:ROAM_ALIASES: RDS
+:END:
+
+** Tips
++ Connect to database through IAM
+* Elastic MapReduce
+:PROPERTIES:
+:ID:       1436a66b-4cac-432e-87bd-aae1e78ef57b
+:ROAM_ALIASES: EMR
+:END:
