@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5c760253-5bcd-4b68-9e5a-addbc1c2e615
+:END:
+#+title: Business Intelligence
+

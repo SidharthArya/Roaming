@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       660f107a-0347-40b8-bc22-517dfa72abdb
+:END:
+#+title: Big Data
+#+filetags: :Big:Data:
+
+Datasets that are too large or complex to be dealt with by traditional data processing application software. Data with many fields offer greater statistical power, while data with higher complexity may lead to a higher false discovery rate.
+
+
+* Big Data Analysis
+:PROPERTIES:
+:ID:       2e5689a2-1a10-415a-be4c-d85cf6f29dbf
+:END:
+Big data is associated with three key concepts:
++ Volume
++ Variety
++ Velocity
++ Veracity
++ Value
++ Variability
++ Exhaustive
++ Fine grained
++ Relational
++ Extensional
++ Scalability
+
+Challenges of Big Data:
++ Sampling
+

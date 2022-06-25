@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       7795df6c-45ce-4c6d-bc69-99d78da0ee86
+:END:
+#+title: Scala
+#+filetags: :Programming_Language:
+
