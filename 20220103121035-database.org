@@ -3,6 +3,11 @@
 :END:
 #+title: Database
 
+* Types
+** Columnar Database
+:PROPERTIES:
+:ID:       454af7de-d486-4248-8c2a-d4d191482674
+:END:
 
 * Connectivity
 ** Java Database Connectivity
