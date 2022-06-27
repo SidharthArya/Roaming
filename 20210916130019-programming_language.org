@@ -24,5 +24,12 @@ A program specifies what is to be done rather than how to do it
 :PROPERTIES:
 :ID:       71bef653-a127-4037-b34a-122766bcd39e
 :END:
+Based on the concept of objects
+** Functional Language
+:PROPERTIES:
+:ID:       621544df-a6db-478b-a1c5-d77076d55361
+:END:
+A way of thinking about software construction by craeting pure function
+** Statically Typed Language
 * Languages
 + [[id:7a1dd5ac-1ee4-4484-84fd-0a3336e779c1][Python]]

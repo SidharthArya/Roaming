@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       291765dc-e84d-4733-b05d-7ae21bed2c83
+:ROAM_ALIASES: "Apache Kafka"
+:END:
+#+title: Kafka
+#+filetags: :Apache:
+

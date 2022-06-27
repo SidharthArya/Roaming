@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       2f628f76-8a9e-4c1c-b0a3-ff79d870f54e
+:ROAM_ALIASES: "Apache Flume"
+:END:
+#+title: Flume
+#+filetags: :Apache:
+

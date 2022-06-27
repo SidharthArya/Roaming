@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d685543e-c929-432a-be43-14c441ed2b03
+:ROAM_ALIASES: "Apache Flink"
+:END:
+#+title: Flink
+#+filetags: :Apache:
+
