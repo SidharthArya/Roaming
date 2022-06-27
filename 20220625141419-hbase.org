@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       290925c8-637e-4be0-beba-7ec60c923de6
+:END:
+#+title: HBase
+
+Apache Hbase is a [[id:454af7de-d486-4248-8c2a-d4d191482674][Column Oriented]], distributed [[id:564efa5b-42e7-40aa-9214-d11a2883e391][NoSQL]] database. H** [[id:e892f397-42b4-4d10-8b6c-2278f1503b19][Functional Languange]]
+Base runs on [[id:da23c5de-acf6-4e6c-a3fc-5736abab19a2][Hadoop]].  

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       1692595a-c529-43d6-bebb-18d2170f2544
+:END:
+#+title: Cassamdra
+
+Apache Cassandra is an open source, column oriented database designed to handle large amounts of data across many commodity servers.

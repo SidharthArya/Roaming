@@ -12,7 +12,7 @@ Datasets that are too large or complex to be dealt with by traditional data proc
 :ID:       2e5689a2-1a10-415a-be4c-d85cf6f29dbf
 :END:
 Big data is associated with three key concepts:
-+ Volume
+**  Volume
 + Variety
 + Velocity
 + Veracity
