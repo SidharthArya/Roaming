@@ -2,6 +2,7 @@
 :ID:       fe4d7973-c9f3-4580-801c-11ab0b8517d6
 :END:
 #+title: Data Structures
+#+filetags: :Structures:Data:
 
 * Graph
 :PROPERTIES:
@@ -12,3 +13,8 @@
 :ID:       e7735b79-df08-434e-9a38-7b098df99b9f
 :END:
 
+* Types
+** Immutable
+:PROPERTIES:
+:ID:       0411777c-f396-4dba-ad53-38092833d9e6
+:END:
