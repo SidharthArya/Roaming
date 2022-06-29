@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       b774e198-e845-405a-b09c-6a95f13e255f
+:END:
+#+title: Processing
+
+* Types
+** Batch Processing
+:PROPERTIES:
+:ID:       aa7fe268-eff5-4df1-b000-904901ba6cbe
+:END:
+
+** Online Processing
+:PROPERTIES:
+:ID:       29759e28-6778-46cc-8ce7-b07a86e37b38
+:END:
+** Real Time Processing
+:PROPERTIES:
+:ID:       6f0967a6-dec2-4cc6-b46d-397f6a0a4a62
+:END:
+** Distributed Data Processing
+:PROPERTIES:
+:ID:       bdaab6b4-a9e7-4cc2-8a15-9c3bb93082b4
+:END:
+** Multi Processing
+:PROPERTIES:
+:ID:       642c9348-d406-4bca-82cf-eacf51c2c545
+:END:
+** Time Sharing Processing
+:PROPERTIES:
+:ID:       0d74384c-78be-4ca2-bf0f-8bb67615a314
+:END:
