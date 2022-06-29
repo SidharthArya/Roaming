@@ -55,3 +55,8 @@ Simple, Serverless, Set and Forget, [[id:dd1b0ab9-530f-4f00-be64-28c0573db757][N
 :ID:       1436a66b-4cac-432e-87bd-aae1e78ef57b
 :ROAM_ALIASES: EMR
 :END:
+
+* Devops Guru
+:PROPERTIES:
+:ID:       3c838b64-15b8-4a05-ab2f-961fea07d2f8
+:END:
