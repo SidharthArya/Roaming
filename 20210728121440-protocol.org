@@ -21,3 +21,9 @@
 :ID:       7bf02bb9-66ae-4b4c-9bd9-7cb8db65cf74
 :END:
 ** Websocket
+
+** Kerberos
+:PROPERTIES:
+:ID:       c35de5f6-33b6-4aad-9179-008e0d852380
+:END:
++ Network Authentication Protocol
