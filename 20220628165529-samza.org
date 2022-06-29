@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       6af5634c-a829-46bf-b563-ebb8bc5c69aa
+:ROAM_ALIASES: "Apache Samza"
+:END:
+#+title: Samza
+#+filetags: :Apache:
+
+Stream processing framework
