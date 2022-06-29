@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       50767037-9bba-4d96-a4f9-c06bb66998a6
+:END:
+#+title: Compiler Design
+
+* Text Editor Features
+** Code Completion
+:PROPERTIES:
+:ID:       ed855569-911c-44fd-ac85-5b02fc0865c0
+:END:
++ Amazon Whisperer

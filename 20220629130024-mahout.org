@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ad6c6fbf-7275-452e-b574-a89090afc06f
+:ROAM_ALIASES: "Apach Mahout"
+:END:
+#+title: Mahout
+
+Distributed linear algebra framework

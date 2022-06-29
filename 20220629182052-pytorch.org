@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c2e3418d-5af9-4fcf-b2ab-a3a2eb74dd71
+:END:
+#+title: Pytorch
+
+
+* Packages
+** Kornia
+:PROPERTIES:
+:ID:       4720f34f-afe1-4904-a25d-28362a9c8cb6
+:END:
+Kornia is a differentiable computer vision library for PyTorch.

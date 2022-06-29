@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ef8d8cb8-df09-43f2-a203-88923dc995d4
+:END:
+#+title: Cryptography
+#+filetags: :Cryptography:
+
+
+* Types
+** Secret Key Cryptography
+:PROPERTIES:
+:ID:       eaf7ffe1-0f8f-4295-8213-6248a0f6cf41
+:END:

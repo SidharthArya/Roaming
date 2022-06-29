@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       154ff25c-5972-490f-9eeb-1ad4a76cbf7f
+:END:
+#+title: Devops
+
+
