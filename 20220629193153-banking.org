@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       cb9ffe4a-922c-4051-80ce-1596d07002ec
+:END:
+#+title: Banking
+#+filetags: :Banking:
+
+* Terms
+** Non Performing Assets
+:PROPERTIES:
+:ID:       ee8a991c-5c87-4410-b858-215f91382b39
+:ROAM_ALIASES: NPA
+:END:
