@@ -18,3 +18,10 @@
     do pdflatex main.tex && bibtex main && pdflatex main.tex;
     done
   #+END_SRC
+* Tricks
+** Enable systemd for user
+#+begin_src bash
+  loginctl enable-linger $USER
+  echo "export XDG_RUNTIME_DIR=/run/user/$(id -u)
+  
+#+end_src
